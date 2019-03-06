@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include "mylib.h"
+#include "Header.h"
 
 int add(int nLeft, int nRight) {
 	int g_nAddResult = nLeft + nRight;

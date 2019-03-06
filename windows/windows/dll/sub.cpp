@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include "mylib.h"
+#include "Header.h"
 
 int sub(int nLeft, int nRight) {
 	int g_nSubResult = nLeft - nRight;
